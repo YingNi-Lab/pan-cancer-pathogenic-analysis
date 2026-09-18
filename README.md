@@ -67,4 +67,6 @@ Notebook outputs are cleared from the public-facing file, and participant-level 
 
 ## Citation
 
-Please cite the associated JAMA publication when using or referring to this analysis. Idumah G, Newell D, Hadrys M, Ribaudo I, Ni Y, Arbesman J. Pathogenic Germline Variants in Cancer Susceptibility Genes. JAMA. 2025;334(19):1765–1768. doi:10.1001/jama.2025.16372
+Please cite the associated JAMA publication when using or referring to this analysis. 
+
+Idumah G, Newell D, Hadrys M, Ribaudo I, Ni Y, Arbesman J. Pathogenic Germline Variants in Cancer Susceptibility Genes. JAMA. 2025;334(19):1765–1768. doi:10.1001/jama.2025.16372
