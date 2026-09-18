@@ -22,14 +22,6 @@ The notebook:
 
 - `pan_cancer_v8_github_documented.ipynb` — documented GitHub-facing version of the analysis notebook.
 
-### Code preservation
-
-The GitHub-facing notebook was created specifically to improve readability without changing the published analysis.
-
-**All 162 executable code cells were preserved exactly from the original notebook.** No executable code, code comments, variable names, filters, statistical tests, hard-coded values, file paths, or plotting commands were modified. Only Markdown documentation was added or rewritten.
-
-This is important because the notebook represents the workflow that generated the published results.
-
 ## Data access
 
 The analysis uses **All of Us Controlled Tier v8** data. Controlled participant-level data are not distributed with this repository.
@@ -69,12 +61,10 @@ The original notebook uses Python together with packages and services including:
 - seaborn
 - Google BigQuery / All of Us Researcher Workbench utilities
 
-Because the notebook was preserved to match the published analysis, package-version pinning has not been retroactively added to the executable cells.
-
 ## Privacy and repository contents
 
 Notebook outputs are cleared from the public-facing file, and participant-level datasets are not included. The repository is intended to document the analysis workflow rather than redistribute Controlled Tier data.
 
 ## Citation
 
-Please cite the associated JAMA publication when using or referring to this analysis. Add the full publication citation and DOI here in the repository README.
+Please cite the associated JAMA publication when using or referring to this analysis. Idumah G, Newell D, Hadrys M, Ribaudo I, Ni Y, Arbesman J. Pathogenic Germline Variants in Cancer Susceptibility Genes. JAMA. 2025;334(19):1765–1768. doi:10.1001/jama.2025.16372
